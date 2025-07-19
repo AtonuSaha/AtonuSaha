@@ -63,6 +63,7 @@ My passion for **DevOps** stems from my deep understanding of automation, cloud 
 - 🖥️ Red Hat Certified Specialist in Virtualization
 - ⚙️ Red Hat Certified Engineer (RHCE) Version 7 & 8
 - 🛠️ Red Hat Certified System Administrator (RHCSA)
+  - Verification: https://rhtapps.redhat.com/verify/?certId=190-079-624
 
 ### **Cloud & DevOps**
 - ☁️ **AWS Certified Solution Architect - Associate**

@@ -55,6 +55,7 @@ My passion for **DevOps** stems from my deep understanding of automation, cloud 
 
 ### **Red Hat Certifications**
 - 🏆 **Red Hat Certified Architect (RHCA)**
+- 🐳 Red Hat Certified Specialist in Containers
 - 🔒 Red Hat Certified Specialist in Linux Security
 - 🔍 Red Hat Certified Specialist in Linux Diagnostics and Troubleshooting
 - ⚡ Red Hat Certified Specialist in High Availability Clustering
@@ -177,4 +178,3 @@ I'm actively seeking opportunities as a **DevOps Engineer** where I can leverage
 *"Passionate about automation, cloud technologies, and building scalable infrastructure solutions."*
 
 ---
-

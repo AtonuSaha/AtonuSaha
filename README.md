@@ -178,7 +178,3 @@ I'm actively seeking opportunities as a **DevOps Engineer** where I can leverage
 
 ---
 
-//<div align="center">
- // <img src="https://github-readme-stats.vercel.app/api?username=AtonuSaha&show_icons=true&theme=radical" alt="GitHub Stats" />
-//  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtonuSaha&theme=radical" alt="GitHub Streak" />
-//</div> 

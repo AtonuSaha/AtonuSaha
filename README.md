@@ -33,26 +33,48 @@ My passion for **DevOps** stems from my deep understanding of automation, cloud 
 ## 🎯 Core Competencies
 
 ### **Cloud & Virtualization**
-<div style="pointer-events: none; user-select: none;">
+<div style="pointer-events: auto;">
+<a href="https://github.com/AtonuSaha" target="_blank">
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+</a>
+<a href="https://github.com/AtonuSaha" target="_blank">
 <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+</a>
+<a href="https://github.com/AtonuSaha" target="_blank">
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+</a>
+<a href="https://github.com/AtonuSaha" target="_blank">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</a>
 </div>
 
 ### **Linux & Red Hat Ecosystem**
-<div style="pointer-events: none; user-select: none;">
+<div style="pointer-events: auto;">
+<a href="https://github.com/AtonuSaha" target="_blank">
 <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat" />
+</a>
+<a href="https://github.com/AtonuSaha" target="_blank">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</a>
+<a href="https://github.com/AtonuSaha" target="_blank">
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+</a>
+<a href="https://github.com/AtonuSaha" target="_blank">
 <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+</a>
 </div>
 
 ### **Networking & Storage**
-<div style="pointer-events: none; user-select: none;">
+<div style="pointer-events: auto;">
+<a href="https://github.com/AtonuSaha" target="_blank">
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+</a>
+<a href="https://github.com/AtonuSaha" target="_blank">
 <img src="https://img.shields.io/badge/NetApp-0067C5?style=for-the-badge&logo=netapp&logoColor=white" alt="NetApp" />
+</a>
+<a href="https://github.com/AtonuSaha" target="_blank">
 <img src="https://img.shields.io/badge/IBM-000000?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM" />
+</a>
 </div>
 
 ---

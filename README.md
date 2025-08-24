@@ -95,6 +95,7 @@ My passion for **DevOps** stems from my deep understanding of automation, cloud 
 
 ### **Cloud & DevOps**
 - ☁️ **AWS Certified Solution Architect - Associate**
+- ☁️ **Google Associate Coud Engineer**
 - 🔧 **AWS Certified SysOps Administrator - Associate**
 - 🐳 **Docker Certified Associate**
 - ☸️ **CKA Certification Course**
